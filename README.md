@@ -1,0 +1,1 @@
+# collision-detectional-algorithm
